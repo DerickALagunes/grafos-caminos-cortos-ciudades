@@ -1,0 +1,6 @@
+c:\users\manuel\documents\visual studio 2015\Projects\Floyd-Warshall\Floyd-Warshall\bin\Debug\Floyd-Warshall.exe.config
+c:\users\manuel\documents\visual studio 2015\Projects\Floyd-Warshall\Floyd-Warshall\bin\Debug\Floyd-Warshall.exe
+c:\users\manuel\documents\visual studio 2015\Projects\Floyd-Warshall\Floyd-Warshall\bin\Debug\Floyd-Warshall.pdb
+c:\users\manuel\documents\visual studio 2015\Projects\Floyd-Warshall\Floyd-Warshall\obj\Debug\Floyd-Warshall.csprojResolveAssemblyReference.cache
+c:\users\manuel\documents\visual studio 2015\Projects\Floyd-Warshall\Floyd-Warshall\obj\Debug\Floyd-Warshall.exe
+c:\users\manuel\documents\visual studio 2015\Projects\Floyd-Warshall\Floyd-Warshall\obj\Debug\Floyd-Warshall.pdb
